@@ -24,7 +24,7 @@ E os demais comandos são internos ao código e o próprio programa mostra um me
 
 5. INFORMAÇÕES SOBRE O PROGRAMA
 
-	O programa é autoral, utilizando os conceitos aprendidos na disciplina de Programação III. Cuja a linguagem aprendida e utilizada é C++. O projeto realizado é uma simulação de um pátio onde existe um fluxo de containers, estes container chegam no pátio e são organizados em pilhas por tamanhos que podem ser 20 e 40 pés. O usuário insere uma data de saída para cada container cadastrado no pátio. O código procura o melhor lugar na pilha para inserir o container respeitando a ordem Last in First Out (LIFO), onde o último container a entrar é o último a sair.
+O programa é autoral, utilizando os conceitos aprendidos na disciplina de Programação III. Cuja a linguagem aprendida e utilizada é C++. O projeto realizado é uma simulação de um pátio onde existe um fluxo de containers, estes container chegam no pátio e são organizados em pilhas por tamanhos que podem ser 20 e 40 pés. O usuário insere uma data de saída para cada container cadastrado no pátio. O código procura o melhor lugar na pilha para inserir o container respeitando a ordem Last in First Out (LIFO), onde o último container a entrar é o último a sair.
 
 REFERÊNCIAS
 [1] DEITEL, P.; DEITEL, H. C++: How To Program, 9a edição, Ed. Pearson, 2014. ISBN-10: 0133378713.
